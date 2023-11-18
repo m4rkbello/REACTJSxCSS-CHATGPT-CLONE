@@ -25,14 +25,14 @@ function App() {
 
           <div className="upperSideBottom">
             <button className="query"><img src={msgIcon} alt="Query" />How how de karabao</button>
-            <button className="query"><img src={msgIcon} alt="Query" />How do you sleep</button>
+            <button className="query"><img src={msgIcon} alt="Query" />Who is Mark ReactJS?</button>
           </div>
         </div>
 
         <div className="lowerSide">
           <div className="listItems"><img src={homeIcon} alt="homeIcon" className="listItemsImg" />Home</div>
           <div className="listItems"><img src={saveIcon} alt="saveIcon" className="listItemsImg" />Saved</div>
-          <div className="listItems"><img src={upgradeChoi} alt="upgradeChoiIcon" className="listItemsImg" />Upgrade Choi!</div>
+          <div className="listItems"><img src={upgradeChoi} alt="upgradeChoiIcon" className="listItemsImg" />Upgrade to PRO!</div>
 
         </div>
 
@@ -44,12 +44,16 @@ function App() {
 
           <div className="chat">
             <img src={userIcon} className="chatImg" alt="gpt-2nd-logo" />
-            <p className="txt">Mekusmekus</p>
+            <p className="txt">Who is Mark Bello?</p>
           </div>
 
           <div className="chat bot">
-            <img src={chatGPTlogoofficial} className="chatImg" alt="gpt-2nd-logo" />
-            <p className="txt">Mekusmekus</p>
+            <img src={gptLogo} className="chatImg" alt="gpt-2nd-logo" />
+            <p className="txt">As of my last knowledge update in January 2022, I don't have specific information about an individual named Mark Bello who might be widely known or notable. It's possible that there are individuals with that name who are not widely recognized or haven't gained widespread public attention.
+            <br />
+            <br />
+
+            If Mark Bello is a private individual or someone who has gained prominence after my last update, I would not have information about them. For the latest and most accurate information, especially if it's a person in the public domain or a recent figure, I recommend checking the latest news sources or online profiles for the most up-to-date information.</p>
           </div>
 
 
@@ -59,7 +63,12 @@ function App() {
               <button className="send">
                 <img src={sendIcon} alt="SendChat" className="SendChat" /></button>
             </div>
-            <p className="txt">Mekusmekus</p>
+            <br />
+            <center>
+
+              <p className="txt">ChatGPT can make mistakes. Consider checking important information.</p>
+              
+            </center>
           </div>
         </div>
       </div>
