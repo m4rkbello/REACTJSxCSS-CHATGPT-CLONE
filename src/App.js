@@ -24,8 +24,8 @@ function App() {
           </button>
 
           <div className="upperSideBottom">
-            <button className="query"><img src={msgIcon} alt="Query" />How how de karabao</button>
-            <button className="query"><img src={msgIcon} alt="Query" />Who is Mark ReactJS?</button>
+            <button className="query"><img src={msgIcon} alt="Query" />How to POMODORO to be Fullstack Web Developer?</button>
+            <button className="query"><img src={msgIcon} alt="Query" />Whos is MARK BELLO from philippines?</button>
           </div>
         </div>
 
@@ -44,16 +44,16 @@ function App() {
 
           <div className="chat">
             <img src={userIcon} className="chatImg" alt="gpt-2nd-logo" />
-            <p className="txt">Who is Mark Bello?</p>
+            <p className="txt">Whos is MARK BELLO from philippines?</p>
           </div>
 
           <div className="chat bot">
             <img src={gptLogo} className="chatImg" alt="gpt-2nd-logo" />
-            <p className="txt">As of my last knowledge update in January 2022, I don't have specific information about an individual named Mark Bello who might be widely known or notable. It's possible that there are individuals with that name who are not widely recognized or haven't gained widespread public attention.
+            <p className="txt">Mark Bello from the Philippines is not a widely recognized figure in the public domain or media. It is possible that he might be a private individual or someone not extensively covered in mainstream news or notable online sources. If you have any specific context or additional details about this person, it could help in providing a more accurate identification or relevant information.
             <br />
             <br />
 
-            If Mark Bello is a private individual or someone who has gained prominence after my last update, I would not have information about them. For the latest and most accurate information, especially if it's a person in the public domain or a recent figure, I recommend checking the latest news sources or online profiles for the most up-to-date information.</p>
+          </p>
           </div>
 
 
